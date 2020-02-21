@@ -1,6 +1,6 @@
 # Picklevision™
 The repository for texture pack used in Minecraft Java server.
-### Credits
+
 It's built from the ground up by KolaKattz.
 
 Hope you all enjoy this stupid texture pack I made, it means a lot to me.
