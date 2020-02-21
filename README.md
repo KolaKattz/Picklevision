@@ -5,6 +5,9 @@ Hope you all enjoy this stupid texture pack I made, it means a lot to me.
 
 To download the stable build, use the links below:
 
+https://mega.nz/#F!wSJB1Y4B!_HJTOWS0lVYDZTKfwZ3XjQ
+https://drive.google.com/drive/folders/1STFUFIb4IQxachcMo6hkhlyfWX7XlN0a?usp=sharing
+
 ### Some things to note before using this:
 
 - This pack is only for Java. Bedrock is a spaghetti mess that I can't seem to be able to figure out yet.
