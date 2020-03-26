@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Even though this is just a silly birthday pack, thanks for checking it out! -Kola",
+        "name": "Picklevision Bedrock",
+        "uuid": "49591812-6a05-11ea-bc55-0242ac130003",
+        "version": [1, 0, 0],
+        "min_engine_version": [ 1, 14, 0 ]
+    },
+    "modules": [
+        {
+            "description": "Even though this is just a silly birthday pack, thanks for checking it out! -Kola",
+            "type": "resources",
+            "uuid": "53dacc7c-6a05-11ea-bc55-0242ac130003",
+            "version": [1, 0, 0]
+        }
+    ]
+}
