@@ -5,8 +5,7 @@
 - Added some new splash texts and removed birthday ones.
 
 # 1.0.1 - Hotfix
-- Removed bugs:
-- Removed a bug where optifine would squish and lower resolution of texture or suspicious pickle..
+- Removed a bug where optifine would squish and lower the resolution of the sea pickle texture.
 
 # 1.0.0 - Initial Release
 ### A big happy birthday to JustAnyone!
