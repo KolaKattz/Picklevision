@@ -1,5 +1,6 @@
 # 1.2.0 - The Revival!
 - New splash texts.
+- Updated pigscene to have a better looking texture.
 ### More coming soon!
 
 # 1.1.0 - The sound of Picklevision
