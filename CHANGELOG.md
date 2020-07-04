@@ -1,3 +1,7 @@
+# 1.2.0 - The Revival!
+- New splash texts.
+### More coming soon!
+
 # 1.1.0 - The sound of Picklevision
 - Replaced music discs 11, strad, wait & ward with new music.
 - Renamed music discs 11, strad, wait & ward to song names.
