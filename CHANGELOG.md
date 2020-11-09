@@ -1,6 +1,7 @@
-# 1.2.0 - The Revival!
+# 1.2.0 - The Peppino Invasion!
 - New splash texts.
 - Updated pigscene to have a better looking texture.
+- Added Peppino. (yep)
 ### More coming soon!
 
 # 1.1.0 - The sound of Picklevision
