@@ -1,6 +1,9 @@
 # 1.2.0 - The Peppino Invasion!
 - New splash texts.
 - Updated pigscene to have a better looking texture.
+- Replaced music discs stal, pigstep, mellohi & mall with new music.
+- Renamed music discs pigstep, mellohi & mall to song names.
+- Changed textures of stal, pigstep, mellohi & mall.
 - Added Peppino. (yep)
 ### More coming soon!
 
