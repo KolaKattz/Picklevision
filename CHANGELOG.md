@@ -5,7 +5,6 @@
 - Renamed music discs pigstep, mellohi & mall to song names.
 - Changed textures of stal, pigstep, mellohi & mall.
 - Added Peppino. (Changed some of the animals textures to have my mc skins face. Also changed the default steve and alex skins to have their respective peppino skin.)
-### More coming soon!
 
 # 1.1.0 - The sound of Picklevision
 - Replaced music discs 11, strad, wait & ward with new music.
